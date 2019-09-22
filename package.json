@@ -33,7 +33,7 @@
     "react-hot-loader": "4.12.9",
     "react-router": "5.0.1",
     "react-router-dom": "5.0.1",
-    "sass-loader": "7.1.0",
+    "sass-loader": "7.3.1",
     "style-loader": "0.23.1",
     "webpack": "4.38.0",
     "webpack-cli": "3.3.6",
